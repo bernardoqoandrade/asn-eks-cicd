@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: fabio-leticia-service
+  name: bernardo-lucas-service
   namespace: default
 spec:
   selector:
