@@ -1,5 +1,5 @@
 # Use the NGINX image from AWS ECR Public Gallery
-FROM public.ecr.aws/nginx/nginx:latest
+FROM public.ecr.aws/nginx/nginx:alpine
 
 # Copy custom configuration file, if you have one
 # COPY your-nginx-config.conf /etc/nginx/nginx.conf
